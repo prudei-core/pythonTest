@@ -1,0 +1,87 @@
+{
+  'meta': {
+    'pagination': {
+      'total': 2730,
+      'pages': 273,
+      'page': 1,
+      'limit': 10,
+      'links': {
+        'previous': None,
+        'current': 'https://gorest.co.in/public/v1/users?page=1',
+        'next': 'https://gorest.co.in/public/v1/users?page=2'
+      }
+    }
+  },
+  'data': [
+    {
+      'id': 1366795,
+      'name': 'Yoginder Dhawan',
+      'email': 'yoginder_dhawan@smith.test',
+      'gender': 'female',
+      'status': 'inactive'
+    },
+    {
+      'id': 1359558,
+      'name': 'Suryakant Trivedi',
+      'email': 'suryakant_trivedi@kuvalis.example',
+      'gender': 'male',
+      'status': 'active'
+    },
+    {
+      'id': 1359557,
+      'name': 'Chidambar Pilla Esq.',
+      'email': 'pilla_chidambar_esq@sanford.example',
+      'gender': 'male',
+      'status': 'active'
+    },
+    {
+      'id': 1359555,
+      'name': 'Sher Saini DVM',
+      'email': 'saini_sher_dvm@hahn.example',
+      'gender': 'female',
+      'status': 'inactive'
+    },
+    {
+      'id': 1359554,
+      'name': 'Mr. Arjun Dwivedi',
+      'email': 'mr_dwivedi_arjun@schuster-goyette.test',
+      'gender': 'male',
+      'status': 'active'
+    },
+    {
+      'id': 1359553,
+      'name': 'Subodh Shah',
+      'email': 'shah_subodh@cassin.example',
+      'gender': 'male',
+      'status': 'active'
+    },
+    {
+      'id': 1359552,
+      'name': 'Dr. Dhanu Guha',
+      'email': 'guha_dhanu_dr@hyatt-ortiz.test',
+      'gender': 'male',
+      'status': 'inactive'
+    },
+    {
+      'id': 1359551,
+      'name': 'Gotum Jain',
+      'email': 'jain_gotum@lind-labadie.example',
+      'gender': 'female',
+      'status': 'active'
+    },
+    {
+      'id': 1359550,
+      'name': 'Bhagvan Nayar',
+      'email': 'bhagvan_nayar@leannon.example',
+      'gender': 'male',
+      'status': 'active'
+    },
+    {
+      'id': 1359549,
+      'name': 'Sen. Kanaka Deshpande',
+      'email': 'kanaka_sen_deshpande@friesen.example',
+      'gender': 'male',
+      'status': 'active'
+    }
+  ]
+}
