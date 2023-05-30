@@ -1,3 +1,16 @@
-New string
-hhNew string
-hh
+-----
+Useful command
+pytest -s -v tests // запускает все тесты в папке тест
+pytest -s -v -k production tests // запускает тесты маркерованные как продакшинские. маркеровка настраивается в файле pytest.ini
+-s // Показывает print в консоле
+-v // Детальное отображение
+
+Allure report
+scoop install allure
+pip install allure-pytest
+
+// to save all reports in the package
+pytest -s -v tests --alluredir=allure_reports
+
+// to generate reports with server
+allure serve allure_reports
